@@ -201,6 +201,6 @@ def multiply_primes(m, n):
 
         return product
 # I tried a lot of ways to figure out a way around the special case trying to use if, elif, and else, but I was unable
-# to figure anything out. The code works for everything except when there is a no prime number for m to n.
+# to figure anything out. The code works for everything except when there is a no prime number for m to n
 
 main()
